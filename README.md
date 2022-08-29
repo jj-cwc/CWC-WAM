@@ -1,2 +1,2 @@
 # CWC-WAM
-FPGA Warren Abstract Machine
+Attempt at FPGA Warren Abstract Machine
